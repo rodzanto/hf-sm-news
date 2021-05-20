@@ -33,7 +33,7 @@ Now that your SageMaker Studio is open, you will get the notebook that we will b
 ![screen3](./images/screen3.png)
 
 * Click on **"System Terminal"** to open a new terminal tab.
-* Copy-paste the following command in the terminal and hit enter. This will clone the [Amazon SageMaker Examples GitHub repository](https://github.com/aws/amazon-sagemaker-examples/) to your Studio local environment.
+* Copy-paste the following command in the terminal and hit enter. This will clone this repository to your local Studio environment.
     ```
     git clone https://github.com/rodzanto/hf-sm-news/
     ```
@@ -57,7 +57,10 @@ When you are done you can proceed to the second notebook.
 You can also check the blog posts explaining these labs in more detail:
 
 https://aws.amazon.com/es/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/
+
 https://huggingface.co/amazon/bort
+
 https://huggingface.co/transformers/sagemaker.html
 
+For additional information you can also check the examples in the official Amazon SageMaker Examples repository: https://github.com/aws/amazon-sagemaker-examples
 Thank you!

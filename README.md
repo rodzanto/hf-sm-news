@@ -17,20 +17,20 @@ For this lab we will use the integrated IDE for ML, called **Amazon SageMaker St
 * Look for Amazon SageMaker and [click on it](https://eu-west-1.console.aws.amazon.com/sagemaker/home?region=eu-west-1#/landing).
 * Choose *Amazon SageMaker Studio* at the top left of the page.
 
-![Amazon Sagemaker Studio](screen2.png)
+![Amazon Sagemaker Studio](./images/screen2.png)
 
 * Look for "Open Studio" in the right side of the screen and click on it. The Amazon SageMaker Studio loading page displays. When Studio opens you can start using it. 
 
 **Note: this can take a few mins the first time you open it**
 
-![Open Studio](screen1.png)
+![Open Studio](./images/screen1.png)
 
 ## **Cloning the example repository and running the notebooks for the end-to-end lab**
 
 Now that your SageMaker Studio is open, you will get the notebook that we will be using and follow the steps on it:
 * If not open already, create a new Studio Launcher tab by going to "File"->"New Launcher".
 
-![screen3](screen3.png)
+![screen3](./images/screen3.png)
 
 * Click on **"System Terminal"** to open a new terminal tab.
 * Copy-paste the following command in the terminal and hit enter. This will clone the [Amazon SageMaker Examples GitHub repository](https://github.com/aws/amazon-sagemaker-examples/) to your Studio local environment.

@@ -1,4 +1,4 @@
-# Labs for news classification with HuggingFace Transformers and Amazon SageMaker
+# News classification with HuggingFace Transformers and Amazon SageMaker
 
 There are two main labs included in this repo:
 1. Fine tuning and deploying a PyTorch BERT model with Amazon SageMaker
